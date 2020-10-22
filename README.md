@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Olá 👋
+### Seja bem-vindo(a) ao meu GitHub!
+
+Sou um FullStack Developer e DevOps
+
+<br/> :computer: &nbsp; Stacks: Java, JavaScript, Typescript, CSS
