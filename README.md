@@ -33,7 +33,7 @@ Clouds que uso: Amazon AWS e Google Cloud
 
 Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com agro, mexer com madeiras, metais, ...  
 
-###Links 
+#### Links 
 
 [LinkedIn 💼](https://www.linkedin.com/in/edimar-cardoso-9656aa60/)
 
