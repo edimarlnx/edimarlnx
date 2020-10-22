@@ -15,9 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá 👋
-### Seja bem-vindo(a) ao meu GitHub!
+### Olá! Seja bem-vindo! 👋
 
-Sou um FullStack Developer e DevOps
+Sou um FullStack Developer e também gosto de trabalhar com DevOps 
 
-<br/> :computer: &nbsp; Stacks: Java, JavaScript, Typescript, CSS
+Atualmente trabalho na [tecsinapse.com.br](https://tecsinapse.com.br)
+
+Sistemas Operacional: Linux (principal) e Windows (geralmente para jogos)
+
+Editores/IDEs que uso: Intellij IDEA, VS Code, WebStorm, nano
+
+Tecnologias que uso atualmente: Java, javascript, react, css, docker, kubernetes, jenkins, git
+
+Tecnologias que não uso com frequência mais tem interesse e conheço um pouco: angular, typescript, kotlin, terraform, helm,  
+
+Clouds que uso: Amazon AWS e Google Cloud
+
+
+[LinkedIn 💼](https://www.linkedin.com/in/edimar-cardoso-9656aa60/)
+
+[Twitter 🐦](https://twitter.com/edimarlnx)
+
+[Website 🌍](https://zodo.dev)
+
+[Email 📬](mailto:edimarlnx@gmail.com)
+
