@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá! Seja bem-vindo! 👋
 
-Sou um FullStack Developer e também gosto de trabalhar com DevOps 
+Sou um Fullstack Developer e também gosto de trabalhar com DevOps 
 
 Atualmente trabalho na [tecsinapse.com.br](https://tecsinapse.com.br)
 
@@ -31,6 +31,9 @@ Tecnologias que não uso com frequência mais tem interesse e conheço um pouco:
 
 Clouds que uso: Amazon AWS e Google Cloud
 
+Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com agro, mexer com madeiras, metais, ...  
+
+####Links 
 
 [LinkedIn 💼](https://www.linkedin.com/in/edimar-cardoso-9656aa60/)
 
