@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 Sou um Fullstack Developer e também gosto de trabalhar com DevOps 
 
-Atualmente trabalho na [tecsinapse.com.br](https://tecsinapse.com.br)
 
 Sistemas Operacional: Linux (principal) e Windows (geralmente para jogos)
 
