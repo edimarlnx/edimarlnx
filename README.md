@@ -34,7 +34,7 @@ Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com ag
 
 
 #### Working links
-[currently working on 🌍](https://quave.dev)
+[currently working on @quavedev 🔭](https://quave.dev)
 
 [Work Email 📬](mailto:edimar@quave.com.br)
 
