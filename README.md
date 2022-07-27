@@ -32,15 +32,21 @@ Clouds que uso: Amazon AWS e Google Cloud
 
 Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com agro, mexer com madeiras, metais, ...  
 
-#### Links 
+
+#### Working links
+[currently working on 🌍](https://quave.dev)
+
+[Work Email 📬](mailto:edimar@quave.com.br)
+
+
+#### Personal Links 
 
 [LinkedIn 💼](https://www.linkedin.com/in/edimar-cardoso-9656aa60/)
 
 [Twitter 🐦](https://twitter.com/edimarlnx)
 
-[currently working on 🌍](https://quave.dev)
-
 [Website 🌍](https://zodo.dev)
 
 [Email 📬](mailto:edimarlnx@gmail.com)
+
 
