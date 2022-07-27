@@ -38,6 +38,8 @@ Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com ag
 
 [Twitter 🐦](https://twitter.com/edimarlnx)
 
+[currently working on 🌍](https://quave.dev)
+
 [Website 🌍](https://zodo.dev)
 
 [Email 📬](mailto:edimarlnx@gmail.com)
