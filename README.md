@@ -15,24 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hello! Welcome! 👋
+
+I'm a Fullstack Developer, and I also like working with DevOps.
+
+Operating Systems: Linux (main) and Windows (usually for games)
+
+Technologies I currently use: Javascript, React, Meteor, CSS, Docker, Kubernetes, Jenkins, git.
+
+I don't use technologies often but are of interest, and I know a little: Java, PHP, Typescript, Terraform, Helm.
+
+Editors/IDEs that I use are IntelliJ IDEA, VS Code, WebStorm, and nano.
+
+Clouds I use Amazon AWS and Google Cloud.
+
+Hobbies: being with the kids, playing CSGO with friends, music, working with agriculture, working with wood, and metals, etc.
+
+
+
 ## Olá! Seja bem-vindo! 👋
 
-Sou um Fullstack Developer e também gosto de trabalhar com DevOps 
+Sou desenvolvedor Fullstack e também gosto de trabalhar com DevOps.
 
+Sistemas operacionais: Linux (principal) e Windows (geralmente para jogos)
 
-Sistemas Operacional: Linux (principal) e Windows (geralmente para jogos)
+Tecnologias que uso atualmente: Javascript, React, Meteor, CSS, Docker, Kubernetes, Jenkins, git.
 
-Editores/IDEs que uso: Intellij IDEA, VS Code, WebStorm, nano
+Não uso tecnologias com frequência, mas são de interesse, e conheço um pouco: Java, PHP, Typescript, Terraform, Helm.
 
-Tecnologias que uso atualmente: Java, javascript, react, css, docker, kubernetes, jenkins, git
+Editores/IDEs que eu uso são IntelliJ IDEA, VS Code, WebStorm e nano.
 
-Tecnologias que não uso com frequência mais tem interesse e conheço um pouco: angular, typescript, kotlin, terraform, helm,  
+Nuvens Eu uso Amazon AWS e Google Cloud.
 
-Clouds que uso: Amazon AWS e Google Cloud
+Hobbies: estar com as crianças, jogar CSGO com amigos, música, trabalhar com agricultura, trabalhar com madeira e metais, etc.
 
-Hobbies: estar com os filhos, jogar CS:GO com amigos, músicas, trabalhar com agro, mexer com madeiras, metais, ...  
-
-
+## Links 
 #### Working links
 [currently working on @quavedev 🔭](https://quave.dev)
 
