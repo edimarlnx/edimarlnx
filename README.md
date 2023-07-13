@@ -15,45 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello! Welcome! 👋
-
-I'm a Fullstack Developer, and I also like working with DevOps.
-
-Operating Systems: Linux (main) and Windows (usually for games)
-
-Technologies I currently use: Javascript, React, Meteor, CSS, Docker, Kubernetes, Jenkins, git.
-
-I don't use technologies often but are of interest, and I know a little: Java, PHP, Typescript, Terraform, Helm.
-
-Editors/IDEs that I use are IntelliJ IDEA, VS Code, WebStorm, and nano.
-
-Clouds I use Amazon AWS and Google Cloud.
-
-Hobbies: being with the kids, playing CSGO with friends, music, working with agriculture, working with wood, and metals, etc.
-
-
-
 ## Olá! Seja bem-vindo! 👋
 
-Sou desenvolvedor Fullstack e também gosto de trabalhar com DevOps.
+Comecei minha carreira na área de Tecnologia em 2005, desde então tive experiência com muitas áreas, desde o setor de impressão de dados variáveis, passando por áreas de desenvolvimento de software utilizando várias linguagens, como PHP, Pascal (Delphi), Java, Javascript, Golang, Python, etc, e nos últimos anos focado na área de DevOps. O conhecimento adquirido com estas experiências têm ajudado a encontrar e desenvolver soluções para muitos problemas. 
 
-Sistemas operacionais: Linux (principal) e Windows (geralmente para jogos)
-
-Tecnologias que uso atualmente: Javascript, React, Meteor, CSS, Docker, Kubernetes, Jenkins, git.
-
-Não uso tecnologias com frequência, mas são de interesse, e conheço um pouco: Java, PHP, Typescript, Terraform, Helm.
-
-Editores/IDEs que eu uso são IntelliJ IDEA, VS Code, WebStorm e nano.
-
-Nuvens Eu uso Amazon AWS e Google Cloud.
-
-Hobbies: estar com as crianças, jogar CSGO com amigos, música, trabalhar com agricultura, trabalhar com madeira e metais, etc.
+Em 2022, junto com alguns amigos da área de tecnologia, decidimos juntar toda a experiência adquirida nestes anos para criarmos algo que pudesse ajudar empresas e desenvolvedores a simplificar o processo de DevOps e reduzir custos com cloud. Com isto surgiu a [zCloud](www.zcloud.ws). Desde então estamos focando em transformar a complexidade do DevOps em algo simples para dar a melhor experiência aos nossos clientes.
 
 ## Links 
 #### Working links
-[currently working on @quavedev 🔭](https://quave.dev)
+[currently working on @zcloudws 🔭](https://www.zcloud.ws)
 
-[Work Email 📬](mailto:edimar@quave.com.br)
+[Work Email 📬](mailto:edimar@zcloud.ws)
 
 
 #### Personal Links 
@@ -62,7 +34,7 @@ Hobbies: estar com as crianças, jogar CSGO com amigos, música, trabalhar com a
 
 [Twitter 🐦](https://twitter.com/edimarlnx)
 
-[Website 🌍](https://zodo.dev)
+[Website 🌍](https://www.zcloud.dev)
 
 [Email 📬](mailto:edimarlnx@gmail.com)
 
