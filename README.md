@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Comecei minha carreira na área de Tecnologia em 2005, desde então tive experiência com muitas áreas, desde o setor de impressão de dados variáveis, passando por áreas de desenvolvimento de software utilizando várias linguagens, como PHP, Pascal (Delphi), Java, Javascript, Golang, Python, etc, e nos últimos anos focado na área de DevOps. O conhecimento adquirido com estas experiências têm ajudado a encontrar e desenvolver soluções para muitos problemas. 
 
-Em 2022, junto com alguns amigos da área de tecnologia, decidimos juntar toda a experiência adquirida nestes anos para criarmos algo que pudesse ajudar empresas e desenvolvedores a simplificar o processo de DevOps e reduzir custos com cloud. Com isto surgiu a [zCloud](www.zcloud.ws). Desde então estamos focando em transformar a complexidade do DevOps em algo simples para dar a melhor experiência aos nossos clientes.
+Em 2022, junto com alguns amigos da área de tecnologia, decidimos juntar toda a experiência adquirida nestes anos para criarmos algo que pudesse ajudar empresas e desenvolvedores a simplificar o processo de DevOps e reduzir custos com cloud. Com isto surgiu a [zCloud](https://www.zcloud.ws). Desde então estamos focando em transformar a complexidade do DevOps em algo simples para dar a melhor experiência aos nossos clientes.
 
 ## Links 
 #### Working links
