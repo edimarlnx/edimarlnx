@@ -41,7 +41,7 @@ Em 2022, junto com alguns amigos da área de tecnologia, decidimos juntar toda a
 
 [Twitter 🐦](https://twitter.com/edimarlnx)
 
-[Website 🌍](https://www.zcloud.dev)
+[Website 🌍](https://www.zcloud.ws)
 
 [Email 📬](mailto:edimarlnx@gmail.com)
 
