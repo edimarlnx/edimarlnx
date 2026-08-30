@@ -18,8 +18,6 @@ apps boring, in the good sense. Based in Cocal do Sul, Santa Catarina, Brazil.
 - **[Quave ONE](https://quave.one)**. Cloud hosting and DevOps automation for teams
   who would rather ship than babysit infrastructure. Also
   [VolObj](https://github.com/quaveone/volobj), encrypted object-backed volumes.
-- **[Zodo](https://zodo.dev)**. A small product studio: B2B and marketing
-  tools built on Meteor and MongoDB.
 
 ### Open source
 
