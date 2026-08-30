@@ -23,10 +23,6 @@ apps boring, in the good sense. Based in Cocal do Sul, Santa Catarina, Brazil.
 
 ### Open source
 
-- [samba-conductor](https://github.com/edimarlnx/samba-conductor): web UI for a
-  Samba 4 Active Directory domain controller.
-- [html2pdf-service](https://github.com/edimarlnx/html2pdf-service): URL or HTML
-  to PDF, in Go with headless Chrome.
 - [omarchy-server](https://github.com/edimarlnx/omarchy-server): an unofficial,
   in-validation server profile for Omarchy (minimal install, Secure Boot,
   SELinux, transactional updates).
