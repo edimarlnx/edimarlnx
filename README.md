@@ -1,48 +1,48 @@
-<!--### Hi there 👋--> 
+## Hi, I'm Edimar 👋
 
-<!--
-**edimarlnx/edimarlnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer since 2005, DevOps by trade, Go and JavaScript by preference.
+Co-founder of [Quave ONE](https://quave.one), where we make deploying and running
+apps boring, in the good sense. Based in Cocal do Sul, Santa Catarina, Brazil.
 
-Here are some ideas to get you started:
+### What I'm building now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[tui-tools](https://github.com/tui-tools)** (creator and maintainer). A family of
+  terminal tools for Linux, written in Go, that show the system as it is and
+  **preview the exact command line of every change before running it**:
+  [tui-firewall](https://github.com/tui-tools/tui-firewall),
+  [tui-systemd](https://github.com/tui-tools/tui-systemd),
+  [tui-snapper](https://github.com/tui-tools/tui-snapper), with more on the
+  [roadmap](https://github.com/tui-tools#roadmap). Single static binaries, no daemon,
+  a shared [kit](https://github.com/tui-tools/tui-kit) so a new tool is a template
+  away. Site: [tui-tools.github.io](https://tui-tools.github.io).
+- **[Quave ONE](https://quave.one)**. Cloud hosting and DevOps automation for teams
+  who would rather ship than babysit infrastructure. Also
+  [VolObj](https://github.com/quaveone/volobj), encrypted object-backed volumes.
+- **[Zodo](https://zodo.dev)**. A small product studio: B2B and marketing
+  tools built on Meteor and MongoDB.
 
-## Welcome 👋
+### Open source
 
-I started my career in the Technology field in 2005. Since then, I've had experience with various areas, ranging from the variable data printing sector to software development using several programming languages such as PHP, Pascal (Delphi), Java, Javascript, Golang, Python, and more. In recent years, I have been focused on the DevOps area. The knowledge gained from these experiences has been instrumental in finding and developing solutions for numerous challenges.
+- [samba-conductor](https://github.com/edimarlnx/samba-conductor): web UI for a
+  Samba 4 Active Directory domain controller.
+- [html2pdf-service](https://github.com/edimarlnx/html2pdf-service): URL or HTML
+  to PDF, in Go with headless Chrome.
+- [omarchy-server](https://github.com/edimarlnx/omarchy-server): an unofficial,
+  in-validation server profile for Omarchy (minimal install, Secure Boot,
+  SELinux, transactional updates).
 
-In 2022, together with some technology friends, we combined all the expertise acquired over the years to create [Quave One](https://quave.one) to assist companies and developers in reducing cloud costs and simplifying the DevOps process into a user-friendly experience to provide the best service to our customers.
+### Elsewhere
 
+[LinkedIn](https://www.linkedin.com/in/edimar-cardoso-9656aa60/) ·
+[X](https://x.com/edimarlnx) ·
+[edimar@quave.com.br](mailto:edimar@quave.com.br)
 
-## Olá! Seja bem-vindo! 👋
+---
 
-Comecei minha carreira na área de Tecnologia em 2005, desde então tive experiência com muitas áreas, desde o setor de impressão de dados variáveis, passando por áreas de desenvolvimento de software utilizando várias linguagens, como PHP, Pascal (Delphi), Java, Javascript, Golang, Python, etc, e nos últimos anos focado na área de DevOps. O conhecimento adquirido com estas experiências têm ajudado a encontrar e desenvolver soluções para muitos problemas. 
+## Olá 👋
 
-Em 2022, junto com alguns amigos da área de tecnologia, decidimos juntar toda a experiência adquirida nestes anos para criarmos algo que pudesse ajudar empresas e desenvolvedores a simplificar o processo de DevOps e reduzir custos com cloud. Com isto surgiu a [Quave One](https://quave.one). Desde então estamos focando em transformar a complexidade do DevOps em algo simples para dar a melhor experiência aos nossos clientes.
-
-## Links 
-#### Working links
-[currently working on @quaveone 🔭](https://quave.one)
-
-[Work Email 📬](mailto:edimar@quave.com.br)
-
-
-#### Personal Links 
-
-[LinkedIn 💼](https://www.linkedin.com/in/edimar-cardoso-9656aa60/)
-
-[Twitter 🐦](https://x.com/edimarlnx)
-
-[Website 🌍](https://www.quave.one)
-
-[Email 📬](mailto:edimarlnx@gmail.com)
-
-
+Engenheiro de software desde 2005, DevOps por ofício, Go e JavaScript por gosto.
+Cofundador da [Quave ONE](https://quave.one). Hoje meu foco é o
+[tui-tools](https://github.com/tui-tools), uma família de ferramentas de terminal
+para Linux que mostram o sistema como ele é e exibem o comando exato antes de
+qualquer mudança.
